@@ -8,3 +8,14 @@
 4. [COVID-19 Time Series Analysis](https://meenal-narsinghani.github.io/COVID-19-Time-Series-Analysis/)
 5. [FAA Dataset - Case Study](https://meenal-narsinghani.github.io/FAA-Case-Study/)
 
+
+
+Connect with me at [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "https://www.linkedin.com/in/meenal-narsinghani/"
+
+My complete github profile can be found here [[params.social]]
+    icon = "github"
+    icon_pack = "fa"
+    link = "//github.com/USERNAME"
