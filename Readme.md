@@ -10,11 +10,7 @@
 
 
 
-Connect with me at 
-[[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "https://www.linkedin.com/in/meenal-narsinghani/"
+Connect with me at ![https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1280px-LinkedIn_Logo.svg.png]("https://www.linkedin.com/in/meenal-narsinghani/")
 
 My complete github profile can be found here [[params.social]]
     icon = "github"
