@@ -12,7 +12,4 @@
 
 Connect with me at [![](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/meenal-narsinghani/)
 
-My complete github profile can be found here [[params.social]]
-    icon = "github"
-    icon_pack = "fa"
-    link = "//github.com/USERNAME"
+View my complete github profile here [![](https://i.stack.imgur.com/tskMh.png)](https://github.com/meenal-narsinghani)
