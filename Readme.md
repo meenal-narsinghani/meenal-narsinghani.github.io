@@ -10,7 +10,8 @@
 
 
 
-Connect with me at [[params.social]]
+Connect with me at 
+[[params.social]]
     icon = "linkedin"
     icon_pack = "fa"
     link = "https://www.linkedin.com/in/meenal-narsinghani/"
