@@ -10,7 +10,7 @@
 
 
 
-Connect with me at [![](https://developer.linkedin.com/etc/designs/linkedin/katy/global/clientlibs/img/default-share.png)](https://www.linkedin.com/in/meenal-narsinghani/)
+Connect with me at [![](https://cdn.iconscout.com/icon/free/png-256/linkedin-47-189764.png)](https://www.linkedin.com/in/meenal-narsinghani/)
 
 My complete github profile can be found here [[params.social]]
     icon = "github"
